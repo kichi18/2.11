@@ -2,12 +2,7 @@
 
 //課題１
 
-using System.Net.Cache;
-using System.Threading.Tasks.Sources;
-
-int n =
-
-int.Parse(Console.ReadLine());
+int n = int.Parse(Console.ReadLine());
 
 if (n % 2 == 0)
 {
